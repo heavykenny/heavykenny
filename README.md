@@ -1,26 +1,24 @@
 <h1 align="center">Hey 👋, I'm Kenny</h1>
-<h3 align="center">Software/Security Engineer</h3>
-<h4 align="center">📫 Reach me <a href="mailto:kenny@olawuwo.com">kenny@olawuwo.com</a> </h4>
+<h3 align="center">Software engineer by day. Builder by night.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=heavykenny&label=Profile%20views&color=0e75b6&style=flat" alt="heavykenny" />
-</p>
+<p align="center">Based in London. I work 9-5, then I build things.</p>
 
-### About Me
+### What I'm up to
 
-I'm Kenny, a passionate Software/Security Engineer with expertise in web development, mobile development, cybersecurity, and cloud computing. Over the past years, I've developed myself coding in different programming languages including Java, JavaScript/TypeScript, Golang, PHP, Python, and C++.
+I've got a few apps live on the App Store — finance, translation, food, education. Building them was the easy part. Getting people to actually use them? That's what I'm figuring out now.
 
-Outside of coding, I enjoy exploring new technologies, writing, blogging, photography, and learning new skills like playing the piano.
+I'm deep into AI — agents, automation, building tools that do real work. I run **[OpenClaw](https://github.com/openclaw/openclaw)** as my always-on AI sidekick that handles research, code reviews, content, and keeps my projects moving while I sleep.
 
-### Stack Surge
-If you're interested in technology exploration and collaborative projects, feel free to check out Stack Surge and connect with me!
-<p align="center">
-  <a href="https://stacksurge.co" target="blank">Stack Surge Webiste</a>
-</p>
-<h3 align="left">Connect with me:</h3>
+I built **[aislop](https://github.com/heavykenny/aislop)** — an open source CLI that catches AI-generated code slop before it ships.
+
+Right now I'm learning distribution, talking to users, and trying to close the gap between "it works" and "people use it."
+
+I write about the process at [kenny.olawuwo.com](https://kenny.olawuwo.com).
+
+### Connect
+
 <p align="left">
-<a href="https://linkedin.com/in/heavykenny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heavykenny" height="30" width="40" /></a>
-<a href="https://dev.to/heavykenny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="heavykenny" height="30" width="40" /></a>
-<a href="https://twitter.com/heavykenny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heavykenny" height="30" width="40" /></a>
-<a href="https://instagram.com/heavykenny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heavykenny" height="30" width="40" /></a>
+<a href="https://instagram.com/buildwithkenny">Instagram</a> · 
+<a href="https://tiktok.com/@buildwithkenny">TikTok</a> · 
+<a href="https://linkedin.com/in/heavykenny">LinkedIn</a>
 </p>

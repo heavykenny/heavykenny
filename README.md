@@ -1,24 +1,35 @@
-<h1 align="center">Hey 👋, I'm Kenny</h1>
-<h3 align="center">Software engineer by day. Builder by night.</h3>
+# Hi, I'm Kenny
 
-<p align="center">Based in London. I work 9-5, then I build things.</p>
+Software engineer building backend systems, developer tools
+and AI-powered products.
 
-### What I'm up to
+I work across enterprise platforms, open-source tooling and
+consumer apps, with a focus on reliability, security and
+making software useful.
 
-I've got a few apps live on the App Store — finance, translation, food, education. Building them was the easy part. Getting people to actually use them? That's what I'm figuring out now.
+### What I do
 
-I'm deep into AI — agents, automation, building tools that do real work. I run **[OpenClaw](https://github.com/openclaw/openclaw)** as my always-on AI sidekick that handles research, code reviews, content, and keeps my projects moving while I sleep.
+- **Backend & platform engineering:** APIs, automation,
+  dependency management and vulnerability remediation.
+- **AI & developer tools:** Agent workflows, reusable skills
+  and tooling for improving AI-generated code.
+- **Web & mobile products:** Building and shipping apps,
+  from implementation and deployment to analytics and
+  improvements informed by user feedback.
+- **Writing & speaking:** Sharing practical lessons on
+  software engineering and secure AI-assisted development.
 
-I built **[aislop](https://github.com/heavykenny/aislop)** — an open source CLI that catches AI-generated code slop before it ships.
+### What I build
 
-Right now I'm learning distribution, talking to users, and trying to close the gap between "it works" and "people use it."
-
-I write about the process at [kenny.olawuwo.com](https://kenny.olawuwo.com).
+- **[aislop](https://github.com/heavykenny/aislop)**:
+  An open-source, deterministic CLI that detects low-quality
+  patterns in AI-generated code.
+- **Consumer apps:** Published products spanning personal
+  finance, translation, food and education.
+- **Developer platforms:** Tools that simplify engineering
+  workflows and support AI-assisted development.
 
 ### Connect
 
-<p align="left">
-<a href="https://instagram.com/buildwithkenny">Instagram</a> · 
-<a href="https://tiktok.com/@buildwithkenny">TikTok</a> · 
-<a href="https://linkedin.com/in/heavykenny">LinkedIn</a>
-</p>
+[Website & writing](https://kenny.olawuwo.com) ·
+[LinkedIn](https://linkedin.com/in/heavykenny)

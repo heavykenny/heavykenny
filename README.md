@@ -1,35 +1,16 @@
-# Hi, I'm Kenny
+# Software engineer: developer tooling, platform, backend, security and AI
 
-Software engineer building backend systems, developer tools
-and AI-powered products.
+Based in the UK. I build the tools, platforms and backend systems that teams ship on, and the AI systems that run on top of them.
 
-I work across enterprise platforms, open-source tooling and
-consumer apps, with a focus on reliability, security and
-making software useful.
+## What I work on
 
-### What I do
+- **AI systems and models:** production backends that combine speech, translation and LLM pipelines. I choose, test and integrate models, and build agent tooling and skills for AI-assisted development.
+- **[aislop](https://github.com/scanaislop/aislop):** an open-source, deterministic scanner for the code quality problems AI coding tools leave behind. MIT licensed, runs locally, no LLM at runtime. About 115,000 npm downloads in the last month.
+- **Platform and backend engineering:** I run my own production backends on Kubernetes (k3s) with Postgres failover and point-in-time recovery, Traefik, observability and automated deploys.
+- **Security:** dependency management, vulnerability remediation and secure defaults.
 
-- **Backend & platform engineering:** APIs, automation,
-  dependency management and vulnerability remediation.
-- **AI & developer tools:** Agent workflows, reusable skills
-  and tooling for improving AI-generated code.
-- **Web & mobile products:** Building and shipping apps,
-  from implementation and deployment to analytics and
-  improvements informed by user feedback.
-- **Writing & speaking:** Sharing practical lessons on
-  software engineering and secure AI-assisted development.
+## What I care about
 
-### What I build
+Reliability, security, and tooling that makes teams, platforms and the people building on them faster.
 
-- **[aislop](https://github.com/heavykenny/aislop)**:
-  An open-source, deterministic CLI that detects low-quality
-  patterns in AI-generated code.
-- **Consumer apps:** Published products spanning personal
-  finance, translation, food and education.
-- **Developer platforms:** Tools that simplify engineering
-  workflows and support AI-assisted development.
-
-### Connect
-
-[Website & writing](https://kenny.olawuwo.com) ·
-[LinkedIn](https://linkedin.com/in/heavykenny)
+[Website and writing](https://kenny.olawuwo.com) · [LinkedIn](https://linkedin.com/in/heavykenny)
